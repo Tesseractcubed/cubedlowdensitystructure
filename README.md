@@ -1,0 +1,1 @@
+This is a lightweight mod to tweak the stack size of low density structure, to 10 per stack (keeping 50 per rocket). The intent is to bring back the logistical challenge of the low stack size pre 2.0. This mod in not naturally compatible with overhauls or other mods, but may work.
