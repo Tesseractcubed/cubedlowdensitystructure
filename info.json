@@ -1,9 +1,9 @@
 {
     "name": "cubedlowdensitystructure",
     "version": "0.0.1",
-    "title": "Low Density Structure ",
+    "title": "Low Density Structure Stacks Small",
     "author": "Tesseractcubed",
-    "description": "A mod that allows for transmuting promethium chunks into nonrenewable resources. Designed for use on ribbon worlds or others where resources are limited.",
+    "description": "A small mod to make low density structure stack to ten. Rocket capacity is unaffected.",
     "factorio_version": "2.0",
     "dependencies": [
       "base >= 2.0",
